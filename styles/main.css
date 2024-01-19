@@ -1,0 +1,36 @@
+h1 {
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-variant: small-caps;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p, li {
+    font-family: Comic Sans MS, Textile, cursive;
+    font-size:large;
+    line-height: 1.8;
+    letter-spacing: .1rem;
+}
+
+body {
+    max-width: 75ch;
+    margin: auto;
+    background: hsl(180, 100%, 50%);
+    padding: 2rem;
+    line-height: 1.5;    
+}
+
+a:hover {
+    color:hsl(330, 100%, 71%)
+}
+
+
+img {
+    width: 30%;
+    float: right;
+    margin-right: 1rem;
+    border-radius: 70%;
+  }
